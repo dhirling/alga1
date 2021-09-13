@@ -6,5 +6,5 @@ A notebook-ok futtatásához először is telepítenetek kell a Python-t, majd a
 ``jupyter notebook``
 
 ## További anyagok
-- ![Gelle Kitti jegyzetei](http://www.inf.u-szeged.hu/~kgelle/?q=alga)
-- ![Kőrösi Gábor jegyzetei](http://www.inf.u-szeged.hu/~korosig/teach.html)
+- [Gelle Kitti jegyzetei](http://www.inf.u-szeged.hu/~kgelle/?q=alga)
+- [Kőrösi Gábor jegyzetei](http://www.inf.u-szeged.hu/~korosig/teach.html)
